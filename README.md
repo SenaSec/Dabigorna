@@ -34,8 +34,8 @@ I enjoy learning by building projects, exploring systems, and improving my progr
 
 ## Current Focus
 
-* Python Development
+* Python Mastering
 * Linux
-* Cybersecurity Fundamentals
+* Cybersecurity Engineering
 * Open Source
-* Problem Solving
+
