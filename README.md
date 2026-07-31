@@ -1,6 +1,6 @@
 <div align="center">
 
-# Dabigorna
+# SenaSec
 
 **Software Development • Linux • Cybersecurity**
 
