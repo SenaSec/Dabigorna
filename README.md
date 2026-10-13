@@ -28,7 +28,7 @@ I enjoy learning by building projects, exploring systems, and improving my progr
 
 ## Technologies
 
-<img src="https://skillicons.dev/icons?i=python,js,c,cpp,cs,bash,linux,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,js,c,cpp,cs,bash,linux,mysql,git,github,vscode, rust" />
 
 ---
 
